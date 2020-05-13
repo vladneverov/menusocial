@@ -157,10 +157,6 @@ body {
         display: none;
     }
 
-    .social-nav .links-active {
-        display: flex;
-    }
-
     .social-nav .toggle-btn {
         display: inline-block;
     }
